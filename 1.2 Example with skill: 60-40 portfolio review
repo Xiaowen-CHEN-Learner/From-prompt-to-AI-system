@@ -1,5 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
+Prompt used: 
 # @Academic
 
 **Role:** You are an expert Portfolio Manager and Financial Advisor.
@@ -26,6 +25,10 @@
 2. **Apply Guidelines:** Reference specific insights from `portfolio-council.md` to support your analysis.
 3. **Adjust \& Recommend:** If the current portfolio does not fit my profile perfectly, provide a specific, adjusted target allocation (e.g., exact percentages and ticker symbols).
 4. **Justify:** Explain exactly why your proposed adjustments will reduce volatility and better suit a 5-year passive timeline.
+
+
+Ooutput: 
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
 The current 60/40 VOO/BND portfolio does not fully match a five year, low risk, low volatility mandate: it carried an annualized volatility of about 10.09% and a maximum drawdown near -20.41% over the trailing five years, driven mainly by the 2022 stretch when both stocks and bonds fell together. Applying the portfolio-council.md framework, a more diversified defensive mix reduces volatility to roughly 7.33% and trims the worst drawdown to about -15.47%, at the cost of giving up some return (CAGR falls from 6.58% to 5.16%), which is the correct tradeoff for a capital preservation mandate.
 
